@@ -1,0 +1,137 @@
+/* PARAM PAGE*/
+@font-face{
+	font-family: "pete-klassen_aniron";
+	src: url(anicb___.ttf);
+	src: url(anicm___.ttf);
+	src: url(anirb___.ttf);
+	src: url(anirm___.ttf);
+}
+
+p, a {
+	font-family: "pete-klassen_aniron", serif;
+}
+
+p {
+	font-size: 1.8em;
+}
+
+body{
+	background-image: url("bg_light.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* NAV BAR*/
+
+#orange
+{
+	background-color:rgb(237, 111, 55);
+	color: white;
+}
+
+#orange a 
+{
+	color: white;
+}
+
+#orange a:hover
+{
+	border-bottom: 3px white solid;
+	font-weight: bold;
+}
+
+
+/* FIN NAV BAR*/
+/* CIRCLE */
+.firstcircle {
+	height: 50px;
+	width: 50px;
+	border: solid 5px rgb(237, 111, 55);
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	margin-right: 25px;
+	margin-left: 25px;
+  }
+  
+  .secondcircle {
+	height: 120px;
+	width: 120px;
+	border: solid 5px rgb(245, 203, 69);
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	margin-right: 40px;
+	transform-origin: bottom;
+  }
+  
+  .thirdcircle-1 {
+	height: 30px;
+	width: 30px;
+	border: solid 5px black;
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	position : relative;
+	margin-left: -25px;
+  }
+  
+  .thirdcircle-2 {
+	height: 60px;
+	width: 60px;
+	border: solid 5px black;
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	position : relative;
+	margin-left: -25px;
+  }
+  
+  .thirdcircle-3 {
+	height: 90px;
+	width: 90px;
+	border: solid 5px black;
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	position : relative;
+	margin-left: -25px;
+  }
+  
+  .thirdcircle-4 {
+	height: 120px;
+	width: 120px;
+	border: solid 5px black;
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	position : relative;
+	margin-left: -25px;
+  }
+  
+  .thirdcircle-5 {
+	height: 150px;
+	width: 150px;
+	border: solid 5px black;
+	border-radius: 200%;
+	box-shadow: 1px 1px 1px;
+	background-color: transparent;
+	position : relative;
+	margin-left: -25px;
+  }
+  /* FIN CIRCLE */
+
+  .row1{
+	  margin-top : 50px;
+	  margin-bottom: 50px;
+  }
+
+  .row2{
+	margin-top : 50px;
+	margin-bottom: 50px;
+  }
+
+  .row3{
+	margin-top : 50px;
+	margin-bottom: 50px;
+  }
